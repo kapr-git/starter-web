@@ -6,7 +6,7 @@
     Gabriel Tholley tholleyg@git.training @awesometg
 
 # THANKS
-
+Ubuntu
     Thanks to all my students
 	some extra text
 
